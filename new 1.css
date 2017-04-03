@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Colored bars</title>
+	<style type="text/css">
+ #colorstrip-14{
+    width: 90%; height: 50px;
+       background-color: #338ecc;
+}
+#colorstrip-13{
+    width: 90%; height: 50px;
+       background-color: #3498db ;
+}
+#colorstrip-12{
+    width: 90%; height: 50px;
+       background-color: #33adff;
+}		
+#colorstrip-11{
+    width: 90%; height: 50px;
+       background-color: #80ccff;
+}
+#colorstrip-10{
+    width: 90%; height: 50px;
+       background-color: #99d6ff;
+}
+ #colorstrip-9{
+    width: 90%; height: 50px;
+       background-color: #ccebff;
+}
+#colorstrip-8{
+    width: 90%; height: 50px;
+       background-color: #ccf5ff;
+}
+#colorstrip-7{
+    width: 90%; height: 50px;
+       background-color: #009900;
+}
+ 
+#colorstrip-6{
+    width: 90%; height: 50px;
+       background-color: #ff99cc;
+}
+#colorstrip-5{
+    width: 90%; height: 50px;
+       background-color: #ff80bf;
+}
+#colorstrip-4{
+    width: 90%; height: 50px;
+       background-color: #ff66b3;
+}
+#colorstrip-3{
+    width: 90%; height: 50px;
+       background-color: #ff4da6;
+}
+#colorstrip-2{
+    width: 90%; height: 50px;
+       background-color: #ff3399;
+}
+#colorstrip-1{
+    width: 90%; height: 50px;
+       background-color: #ff1a8c;
+}
+#colorstrip-0{
+    width: 90%; height: 50px;
+       background-color: #ff0080;
+}
+div
+{
+	color: #ffffff;
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	line-height:50px;
+	vertical-align: middle;
+	 margin-right: auto; margin-left: auto; 
+}
+ </style>
+</head>
+<body style="background-color:grey;">
+ <div id="colorstrip-14" >14.0 VERY ALKALINE</div>
+<div id="colorstrip-13" >13.0 </div>
+<div id="colorstrip-12" >12.0 </div>
+<div id="colorstrip-11" >11.0 </div>
+<div id="colorstrip-10" >10.0 </div>
+<div id="colorstrip-9" >9.0 </div>
+<div id="colorstrip-8" >8.0 </div>
+<div id="colorstrip-7" >7.0 NEUTRAL</div>
+<div id="colorstrip-6" >6.0 </div>
+<div id="colorstrip-5" >5.0 </div>
+<div id="colorstrip-4" >4.0 </div>
+<div id="colorstrip-3" >3.0 </div>
+<div id="colorstrip-2" >2.0 </div>
+<div id="colorstrip-1" >1.0 </div>
+<div id="colorstrip-0" >0.0 VERY ACID</div>
+</body>
+</html>
